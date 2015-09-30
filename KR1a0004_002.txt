@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 增補鄭氏周易
-#+DATE: 2015-09-23 09:34:08
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:53:17.004591
+#+PROPERTY: ID KR1a0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷中
 <pb:KR1a0004_WYG_002-1a>¶
 欽定四庫全書¶
 　增補鄭氏周易卷中¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　增補鄭氏周易卷中¶
-
